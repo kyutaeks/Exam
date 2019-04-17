@@ -12,6 +12,6 @@ public interface AddrDAO {
 
 	public int updateAddr(Map<String, String> addr);
 
-	public int deleteAddr(Map<String, String> addr);
+	public int deleteAddr(Map<String, String> addr); 
 
 }
